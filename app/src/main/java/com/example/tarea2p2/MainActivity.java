@@ -20,12 +20,14 @@ public class MainActivity extends AppCompatActivity {
 
         TextView textView3 = (TextView) findViewById(R.id.textView3);
         textView3.setText("Integrantes del grupo: \n" +
-                "- Esdras Abiel Clother Paz (202010010048)\n" +
-                "- Eber Orestes González Garcia (201810030032)\n" +
-                "- Bayardo Antonio Ponce Ruiz (202110110125)\n" +
-                "- Jafeth Donatilo Rápalo Rivera (202120030040)\n" +
-                "- Dennis Antonio Landero Ramos (202120030040)\n" +
-                "- Delcer Oviel Hernandez (201510050050)");
+                "- Olvin Figueroa (201320070010)\n" +
+                "- Melvin Orellana (201110510061)\n" +
+                "- Victor Madrid (202110010471)\n" +
+                "- Emely Alexandra Vallecillo (202110120024)\n" +
+                "- Dennis Antonio Landero Ramos(201910070086)\n" +
+                "- Daisy Carolina Pérez Betanco (202010060081) \n" +
+                "- Kevin Orlando Paredes Funez (202130020046)\n" +
+                "- Yisela Diney Molina Sosa (202010010089)");
 
     }
 
